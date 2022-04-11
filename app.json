@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "blockpark-mobile-app",
+    "slug": "blockpark-mobile-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
